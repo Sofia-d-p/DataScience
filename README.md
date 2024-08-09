@@ -47,11 +47,4 @@ El objetivo principal es construir un modelo que pueda predecir si una persona t
 
 Tanto con el Desicion Tree como con el  modelo de Random Forest se alcanzó una precisión del 100%. 
 
-## Cómo Ejecutar el Proyecto
 
-1. Clonar el repositorio:
-   ```bash
-   git clone https://github.com/Sofia-d-p/DataScience.git
-
-
-   Las contribuciones son bienvenidas
